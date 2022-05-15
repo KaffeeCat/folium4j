@@ -1,3 +1,21 @@
+|Test| |Gitter| |DOI| |binder|
+
+.. |Test| image:: https://github.com/python-visualization/folium/actions/workflows/test_code.yml/badge.svg
+    :target: https://github.com/python-visualization/folium/actions/workflows/test_code.yml
+    :alt: Code tests
+
+.. |Gitter| image:: https://badges.gitter.im/python-visualization/folium.svg
+    :target: https://gitter.im/python-visualization/folium
+    :alt: Gitter
+
+.. |DOI| image:: https://zenodo.org/badge/18669/python-visualization/folium.svg
+   :target: https://zenodo.org/badge/latestdoi/18669/python-visualization/folium
+   :alt: DOI
+   
+.. |binder| image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/python-visualization/folium/main?filepath=examples
+
+
 # folium4j
 folium map library in Java
 
